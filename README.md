@@ -1,4 +1,4 @@
-# yummy-desserts
+# Yummy Desserts
 Dessert landing page using HTML, CSS and jQuery.
 * Resources:
     
